@@ -1,0 +1,52 @@
+[33mcommit 104a49cfb474fa1e5be6ee8b821a8884cb99575b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 04aac28 ee8c534
+Author: jmartin <jmartica@externos.bankia.com>
+Date:   Wed Oct 10 11:39:20 2018 +0200
+
+    Merge branch 'rama2'
+
+[33mcommit ee8c53487d60efd455157b03436daf844897dcd3[m[33m ([m[1;31morigin/rama2[m[33m, [m[1;32mrama2[m[33m)[m
+Author: jmartin <jmartica@externos.bankia.com>
+Date:   Wed Oct 10 11:38:18 2018 +0200
+
+    Update rama2.txt
+    
+    commit rama 2
+
+[33mcommit 04aac285c71a40d6bc2542c668f132fda8bbcc0c[m[33m ([m[1;31morigin/rama1[m[33m, [m[1;32mrama1[m[33m)[m
+Author: jmartin <jmartica@externos.bankia.com>
+Date:   Wed Oct 10 11:36:37 2018 +0200
+
+    Update rama1.txt
+    
+    commit rama 1
+
+[33mcommit 540fb0d22e5f8b818d8db5831d8b65eae2671cf5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jmartin <jmartica@externos.bankia.com>
+Date:   Wed Oct 10 11:18:43 2018 +0200
+
+    Update example2.txt
+    
+    commit example 2
+
+[33mcommit 8c24137da0213b8ca8d01be81484dde7a7aa8440[m
+Author: jmartin <jmartica@externos.bankia.com>
+Date:   Wed Oct 10 11:18:09 2018 +0200
+
+    Update example.txt
+    
+    commit init
+
+[33mcommit 4abb7d636198c0c5a7f3a4012221952ce4f06acc[m
+Author: jmartin <jmartica@externos.bankia.com>
+Date:   Wed Oct 10 11:17:44 2018 +0200
+
+    Update exampe.txt
+    
+    commit init
+
+[33mcommit f56c0fefb26cb4edbb2db5a90f6d34a9b5ab91c3[m
+Author: Jose Manuel Martín Calvente <josemartincalvente@gmail.com>
+Date:   Wed Oct 10 11:15:07 2018 +0200
+
+    Initial commit
